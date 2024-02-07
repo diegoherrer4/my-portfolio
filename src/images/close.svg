@@ -1,16 +1,49 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 176.8 176.8">
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
   <defs>
     <style>
       .cls-1 {
-        fill: #f3f3f3;
+        fill: #48a3c6;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #fefefe;
+        stroke: #48a3c6;
+        stroke-width: 20;
       }
     </style>
   </defs>
-  <g id="_ÎÓÈ_1" data-name="—ÎÓÈ_1">
+  <g id="Layer_1-2" data-name="Layer 1">
     <g>
-      <rect class="cls-1" x="-21.16" y="72.95" width="219.13" height="30.9" transform="translate(-36.62 88.4) rotate(-45)"/>
-      <rect class="cls-1" x="-21.16" y="72.95" width="219.13" height="30.9" transform="translate(88.4 213.41) rotate(-135)"/>
+      <!-- Letter D -->
+      <path class="cls-1" d="M100,250
+           C100,111.93 211.93,0 350,0
+           C488.07,0 600,111.93 600,250
+           C600,388.07 488.07,500 350,500
+           C211.93,500 100,388.07 100,250 Z
+           M200,250
+           C200,354.69 295.31,450 400,450
+           C504.69,450 600,354.69 600,250
+           C600,145.31 504.69,50 400,50
+           C295.31,50 200,145.31 200,250 Z"/>
+      
+      <!-- Letter H -->
+      <path class="cls-2" d="M100,50
+           L100,450
+           L200,450
+           L200,300
+           L300,300
+           L300,450
+           L400,450
+           L400,50
+           L300,50
+           L300,200
+           L200,200
+           L200,50
+           Z"/>
     </g>
   </g>
 </svg>

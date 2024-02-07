@@ -21,7 +21,7 @@ const SocialIcons = () => {
 
   return (
     <div className="socialIcons" style={styles.socialIcons}>
-      <a className="icon" style={styles.icon} href="https://github.com/mdyeates">
+      <a className="icon" style={styles.icon} href="https://github.com/diegoherrer4">
         {/* GitHub Icon */}
         <motion.i
           initial={{ y: 100, opacity: 0 }}
@@ -32,7 +32,7 @@ const SocialIcons = () => {
           title="Michael Yeates' GitHub Profile"
         ></motion.i>
       </a>
-      <a className="icon" style={styles.icon} href="https://www.linkedin.com/in/mdyeates/">
+      <a className="icon" style={styles.icon} href="https://www.linkedin.com/in/diegoherrera0/">
         {/* LinkedIn Icon */}
         <motion.i
           initial={{ y1: 100, opacity: 0 }}
@@ -43,28 +43,8 @@ const SocialIcons = () => {
           title="Michael Yeates' LinkedIn Profile"
         ></motion.i>
       </a>
-      <a className="icon" style={styles.icon} href="https://www.instagram.com/michael.yeates/">
-        {/* Instagram Icon */}
-        <motion.i
-          initial={{ y: 100, opacity: 0 }}
-          animate={{ y: 0, opacity: 1 }}
-          transition={{ delay: 1.6, duration: 0.5, type: "spring" }}
-          className="fa-brands fa-instagram"
-          aria-hidden="true"
-          title="Michael Yeates' Instagram Profile"
-        ></motion.i>
-      </a>
-      <a className="icon" style={styles.icon} href="https://twitter.com/mdyeates">
-        {/* Twitter Icon */}
-        <motion.i
-          initial={{ y: 100, opacity: 0 }}
-          animate={{ y: 0, opacity: 1 }}
-          transition={{ delay: 1.5, duration: 0.5, type: "spring" }}
-          className="fa-brands fa-twitter"
-          aria-hidden="true"
-          title="Michael Yeates' Twitter Profile"
-        ></motion.i>
-      </a>
+      
+
     </div>
   );
 };
