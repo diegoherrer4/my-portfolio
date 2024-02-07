@@ -29,7 +29,7 @@ const SocialIcons = () => {
           transition={{ delay: 1.8, duration: 0.5, type: "spring" }}
           className="fa-brands fa-github"
           aria-hidden="true"
-          title="Michael Yeates' GitHub Profile"
+          title=""
         ></motion.i>
       </a>
       <a className="icon" style={styles.icon} href="https://www.linkedin.com/in/diegoherrera0/">
@@ -40,7 +40,7 @@ const SocialIcons = () => {
           transition={{ delay: 1.7, duration: 0.5, type: "spring" }}
           className="fa-brands fa-linkedin"
           aria-hidden="true"
-          title="Michael Yeates' LinkedIn Profile"
+          title=""
         ></motion.i>
       </a>
       
