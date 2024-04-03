@@ -13,6 +13,19 @@
     "id": "1"
   },
   {
+    "title": "Dream Home Remodels",
+    "description": "Website created for local fencing company in Tampa, FL",
+    "image": "/projectImages/dhr.png",
+    "image2": "/projectImages/dhr.png",
+    "image3": "/projectImages/dhr.png",
+    "technologies": ["HTML", "CSS", "JavaScript"],
+    "body": "Static Web App with 'Get A Quote' button implementation for users to get estimates.",
+    "github": "https://github.com/diegoherrer4/Dream-Home-Remodels",
+    "deployed": "https://dreamhomesremodels.com",
+    "bgcolor": "#6c4bf4",
+    "id": "2"
+  },
+  {
     "title": "WhiskerGram",
     "description": "Social media to show off our beloved pets",
     "image": "/projectImages/whiskergram.png",
@@ -23,19 +36,6 @@
     "github": "https://github.com/diegoherrer4/whisker-gram-app",
     "deployed": "https://mdyeates.github.io/weather-app/",
     "bgcolor": "var(--hl-color)",
-    "id": "2"
-  },
-  {
-    "title": "Dream Home Remodels",
-    "description": "Website created for local fencing company in Tampa, FL",
-    "image": "/projectImages/dhr.png",
-    "image2": "/projectImages/dhr.png",
-    "image3": "/projectImages/dhr.png",
-    "technologies": ["HTML", "CSS", "JavaScript"],
-    "body": "Static Web App with 'Get A Quote' button implementation for users to get estimates.",
-    "github": "https://github.com/diegoherrer4/Dream-Home-Remodels",
-    "deployed": "https://dreamhomeremodels.vercel.app/",
-    "bgcolor": "#6c4bf4",
     "id": "3"
   },
   {
